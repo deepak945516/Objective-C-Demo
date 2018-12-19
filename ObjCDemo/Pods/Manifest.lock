@@ -1,0 +1,22 @@
+PODS:
+  - NSTEasyJSON (1.0.6)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+
+DEPENDENCIES:
+  - NSTEasyJSON
+  - SDWebImage (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NSTEasyJSON
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  NSTEasyJSON: 71399a97a84f35e31a7caa98e1385764d66d5e6d
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+
+PODFILE CHECKSUM: c8f326c45dd032b1c83937633ea7169ff5edffb9
+
+COCOAPODS: 1.5.3

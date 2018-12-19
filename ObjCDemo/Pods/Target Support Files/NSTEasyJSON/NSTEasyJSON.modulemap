@@ -1,0 +1,6 @@
+framework module NSTEasyJSON {
+  umbrella header "NSTEasyJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
